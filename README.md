@@ -6,7 +6,7 @@ This is a project that both demonstrates competency with Java as well as unit te
 ### Process:
 This software required the creation of multiple components in Java that would handle both the contact objects and the services needed to make changes to the contact list. In order to effectively accomplish this the contact class was created first as all other components utilize it’s functionality. Testing was conducted and developed for each portion of the software in order to ensure functionality.
 
-## Obstacles:
+### Obstacles:
 There were no serious obstacles in this assignment, however the assessment of user needs proved to be the most difficult aspect. This is due to the nebulous nature of what users expect the final product to be capable of. Developing the unit tests was fairly easy as it involved the process of automating the tests that I would have conducted manually.
 
 ## Course Questions:
